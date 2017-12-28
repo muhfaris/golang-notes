@@ -191,7 +191,7 @@ func main() {
 		NamedObj{"name1"},
 		Shape{NamedObj{"name2"}, 0, true},
 		Point{0, 0},
-		20, 2.5
+		20, 2.5,
 	}
 
 	fmt.Println(aRect.Name)
