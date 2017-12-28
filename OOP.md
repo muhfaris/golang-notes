@@ -104,9 +104,9 @@ func main() {
 	var b = Rectangle{"I'm b.", 10, 20}
 	var c = Rectangle{Height: 12, Width: 14}
 
-	Println(a)
-	Println(b)
-	Println(c)
+	fmt.Println(a)
+	fmt.Println(b)
+	fmt.Println(c)
 }
 ```
 
